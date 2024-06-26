@@ -1,4 +1,4 @@
-# Cloudinary CRUD Operations MERN Stack Application
+# profile_crud_mern_with_cloudinary
 
 ## Project Description
 
